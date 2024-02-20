@@ -40,6 +40,3 @@ Feel free to explore, modify, and expand upon the analysis for your own learning
 
 - [Muhammed Anu Rashik Vk](link_to_your_github_profile) - Lead Explorer
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).

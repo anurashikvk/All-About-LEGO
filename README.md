@@ -10,13 +10,13 @@ This repository contains a comprehensive exploration of a dataset all about LEGO
 
 To get started with the exploration, download the Jupyter Notebook provided in this repository.
 
-- [Download Jupyter Notebook](link_to_jupyter_notebook.ipynb)
+- [Download Jupyter Notebook](https://github.com/anurashikvk/All-About-LEGO/blob/main/Lego_Analysis_for_Course_(start).ipynb)
 
 ## Dataset
 
 The dataset used for this project is available in the `dataset` directory. You can download it and use it for your own analysis.
 
-- [LEGO Dataset](dataset/link_to_lego_dataset.csv)
+- [LEGO Dataset](https://github.com/anurashikvk/All-About-LEGO/tree/main/data)
 
 ## Questions Explored
 
@@ -26,7 +26,7 @@ We've asked a variety of interesting questions about the LEGO dataset, ranging f
 
 If you're curious about the answers to these questions, check out the completed Jupyter Notebook. It includes thorough analysis, visualizations, and explanations for each question.
 
-- [Completed Jupyter Notebook](link_to_completed_notebook.ipynb)
+- [Completed Jupyter Notebook](https://github.com/anurashikvk/All-About-LEGO/blob/main/LEGO%20Notebook%20and%20Data%20(completed).ipynb)
 
 ## How to Use
 
